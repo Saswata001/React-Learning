@@ -31,6 +31,8 @@ P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 ```terminal
 git clone https://github.com/Saswata001/React-Learning.git
 - Navigate to project directory.
+```
+
 ```terminal
 cd React-Learning
 ```
